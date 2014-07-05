@@ -1,0 +1,10 @@
+yn = input("whats your name? ")
+oyn = input("player 2, whats your name? ")
+ya = input( yn + " how old are you? ")
+oya = input( oyn + "how old are You? ")
+ya = int(ya)
+oya = int(oya)
+ta = ya + oya
+ta = str(ta)
+print("wow! you two are " + ta )
+print("in total age!!! your old!!!! ")
